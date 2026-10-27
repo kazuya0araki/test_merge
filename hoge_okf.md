@@ -6,7 +6,7 @@ resource: aaa
 tags: [test, hoge]
 audience: [developer]
 datasets: [README.md]
-timestamp: 2026-10-01T00:00:00Z
+timestamp: 2026-10-02T00:00:00Z
 ---
 
-first commit
+second commit
